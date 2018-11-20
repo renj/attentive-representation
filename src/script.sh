@@ -1,0 +1,2 @@
+/home/rjzhen/anaconda2/bin/python main.py with data_set='product/sentiment' use_model='SingleAttn' device=1 adversarial=False ex_name='experiment'
+/home/rjzhen/anaconda2/bin/python main.py with data_set='product/topic' use_model='SingleAttn' device=1 adversarial=False ex_name='experiment'
