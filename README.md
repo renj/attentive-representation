@@ -8,6 +8,7 @@ This project is the implementation of the paper [Same Representation, Different 
 - python2.7
 - pytorch
 - sacred
+- torchtext 0.1.1
 
 Please download `glove.6B.100d.txt` and put into `embed` folder.
 

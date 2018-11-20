@@ -46,8 +46,6 @@ def init():
     global ex
     ex = Experiment('DNLP')
     ex.logger = logger
-    ex.observers.append(MongoObserver.create(url='mongodb://renj:chimera.11@123.206.114.33', db_name='DNLP'))
-    #ex.observers.append(MongoObserver.create(url='127.0.0.1:27017', db_name='nTrajMap'))
     return ex, logger
 
 
